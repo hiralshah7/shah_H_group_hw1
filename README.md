@@ -1,3 +1,14 @@
+#This is group assignment 
+
+ let's see how it goes !
+we will be doing our best good luck!
+
+and may be we are doing perfectly
+
+# $Git & GitHub - Homework #1
+TODO: Write a team description
+
+
 ## Contributing
 
 1. Fork it!
@@ -12,4 +23,3 @@ shah_H_group
 TODO: Write credits
 
 ## License :MIT
-
