@@ -5,4 +5,22 @@ we will be doing our best good luck!
 
 and may be we are doing perfectly
 
-This group assignment is to create a 1-page HTML, which includes a few paragraphs about bio information and at least one image for each member. 
+# $Git & GitHub - Homework #1
+TODO: Write a team description
+
+
+## Contributing
+
+1. Fork it!
+2. Create your feature branch: `git checkout -b my-new-feature`
+3. Commit your changes: `git commit -am 'Add some feature'`
+4. Push to the branch: `git push origin my-new-feature`
+5. Submit a pull request :D
+
+
+## Credits
+shah_H_group
+TODO: Write credits
+
+## License :MIT
+
